@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: 56aa7f52-25dd-44e5-83c7-328cdfdc453a
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: SQLQueryRepo
